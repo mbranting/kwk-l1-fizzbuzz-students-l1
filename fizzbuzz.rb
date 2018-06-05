@@ -8,3 +8,5 @@ def fizzbuzz
     puts "Fizzbuzz"
   else 
     puts "nil"
+end
+fizzbuzz
