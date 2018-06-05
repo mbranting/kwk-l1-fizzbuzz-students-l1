@@ -1,2 +1,3 @@
 def fizzbuzz
-  number = get.strip.
+  number = get.strip.to_i
+  if "#{number}" % 3 = 
