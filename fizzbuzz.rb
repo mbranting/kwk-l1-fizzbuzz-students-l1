@@ -4,6 +4,7 @@ def fizzbuzz
     puts "FizzBuzz"
     elsif number %3==0
       puts "Fizz"
+    end
   end
 end
 fizzbuzz
