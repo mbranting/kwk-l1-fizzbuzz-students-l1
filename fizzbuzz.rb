@@ -4,9 +4,9 @@ def fizzbuzz
     puts "Fizz"
   elsif "#{int}" % 5 && int !% 3
     puts "Buzz"
-elsif "#{int}" % 3 && int % 5 
+  elsif "#{int}" % 3 && int % 5 
     puts "Fizzbuzz"
-else 
+  else 
     puts "nil"
 end
 fizzbuzz
