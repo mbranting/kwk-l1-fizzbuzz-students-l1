@@ -1,5 +1,5 @@
 def fizzbuzz
-  number = get.chomp.to_i
+  number = gets.chomp.to_i
   
 end
 fizzbuzz
