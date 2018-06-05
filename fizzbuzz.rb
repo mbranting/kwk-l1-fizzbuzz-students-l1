@@ -9,4 +9,4 @@ def fizzbuzz (number = gets.chomp.to_i)
     puts "nil"
   end
 end
-fizzbuzz
+fizzbuzz (5)
